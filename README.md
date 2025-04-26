@@ -1,6 +1,6 @@
 # Conversor de moedas
 
-Este projeto tem como objetivo permitir que você adicione amigos e sorteie um deles de maneira simples e intuitiva. Ele é construído com HTML, CSS e JavaScript.
+Este projeto tem como objetivo a conversão monetária de algumas moedas de maneira simples e intuitiva. Ele é construído com Java.
 
 ## Funcionalidades
 
