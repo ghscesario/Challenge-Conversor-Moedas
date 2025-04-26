@@ -20,7 +20,7 @@ Este projeto tem como objetivo a conversão monetária de algumas moedas de mane
 
 1. Clone o repositório para sua máquina local:
    ```bash
-   git clone https://github.com/seu-usuario/sorteador-de-amigos.git](https://github.com/ghscesario/Game-Amigo-Secreto
+   git clone https://github.com/ghscesario/Challenge-Conversor-Moedas.git(https://github.com/ghscesario/Challenge-Conversor-Moedas
    ```
 2. Execute o arquivo `main.java` em sua IDE.
 3. Selecione a opção de conversão.
