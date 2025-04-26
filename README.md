@@ -14,7 +14,7 @@ Este projeto tem como objetivo a conversão monetária de algumas moedas de mane
 ## Tecnologias Utilizadas
 
 - **JAVA**: Estruturação do sistema.
-- **API**: Exchange Rate aPI para atualizar os valores das moedas em tempo real
+- **API**: Exchange Rate API para atualizar os valores das moedas em tempo real
 
 ## Como Usar
 
