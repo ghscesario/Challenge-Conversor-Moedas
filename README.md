@@ -1,4 +1,4 @@
-# Sorteador de Amigos
+# Conversor de moedas
 
 Este projeto tem como objetivo permitir que você adicione amigos e sorteie um deles de maneira simples e intuitiva. Ele é construído com HTML, CSS e JavaScript.
 
